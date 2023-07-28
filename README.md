@@ -55,4 +55,6 @@ This project is Super Hero Hunter App in which we use superheroAPI() to fetch th
 
 > [Github](https://github.com/soumyaranjan8917)
 
+> [SuperHeroApp](https://soumyaranjan8917.github.io/Super-Hero-Hunter-App/)
+
 I hope you like the project. Thanks for reading :)
